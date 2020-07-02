@@ -1,0 +1,30 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+authenticated.messageThread.list.label.title = Title
+authenticated.messageThread.list.button.create = Create new Message Thread
+
+authenticated.messageThread.form.label.creator = Creator
+authenticated.messageThread.form.label.title = Title
+authenticated.messageThread.form.label.moment = Created At
+authenticated.messageThread.form.label.creator = Creator
+
+authenticated.messageThread.form.button.create = Create
+
+authenticated.messageThread.form.button.messages = Messages
+authenticated.messageThread.form.button.create.messages = Create message
+authenticated.messageThread.form.button.involvedUsers = Involved Users
+authenticated.messageThread.form.button.create.involvedUsers = Add User
+
+authenticated.messageThread.form.button.return = Return
+
+authenticated.existUser.error.not-exist = Submited user doesnt exist
+authenticated.unique.error.already-exist = Submited user is already in a messageThread
+

@@ -1,0 +1,7 @@
+administrator.customisationParameters.form.label.spamList = Lista de Spam
+administrator.customisationParameters.form.label.spamThreshold = Límite de Spam
+
+administrator.customisationParameters.form.button.update = Actualizar
+administrator.customisationParameters.form.button.return = Volver
+
+administrator.customisation-parameters.form.error.not-good-separator = Por favor utilize ; como separador de las palabras

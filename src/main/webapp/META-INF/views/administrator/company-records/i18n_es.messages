@@ -1,0 +1,24 @@
+administrator.company-records.list.label.companyName = Compañía
+administrator.company-records.button.redirect= Top Compañías
+
+administrator.company-records.list.label.workSector = Sector de Trabajo
+administrator.company-records.list.label.activityDesc = Actividad
+administrator.company-records.list.label.webSite = Sitio Web
+administrator.company-records.list.label.rating = Puntuación
+
+administrator.company-records.form.label.companyName = Compañía
+administrator.company-records.form.label.workSector = Sector de Trabajo
+administrator.company-records.form.label.ceoName = Nombre del Ceo
+administrator.company-records.form.label.activityDesc = Actividad
+administrator.company-records.form.label.webSite = Sitio Web
+administrator.company-records.form.label.contactPhone = Número
+administrator.company-records.form.label.contactEmail = Email
+administrator.company-records.form.label.incorporated = Corporizado
+administrator.company-records.form.button.return = Volver
+administrator.company-records.form.label.rating = Puntuación
+
+administrator.company-records.button.redirect.create = Crear Historial de una Compañía
+
+administrator.company-records.button.create = Crear
+administrator.company-records.button.update = Actualizar
+administrator.company-records.button.delete = Borrar

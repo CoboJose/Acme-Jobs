@@ -1,0 +1,17 @@
+employer.duty.list.title = Título
+employer.duty.list.description = Descripción
+
+employer.duty.list.button.create-duty = Crear Deber
+
+employer.duty.form.title = Título
+employer.duty.form.description = Descripción
+employer.duty.form.percentage = Porcentaje
+
+employer.duty.form.button.create = Crear
+employer.duty.form.button.update = Actualizar
+employer.duty.form.button.delete = Eliminar
+employer.duty.form.return = Volver
+
+employer.duty.redirect.create-duty = Crear Deber
+
+employer.job.form.error.percentages-more-100 = Los porcentajes no pueden ser más de 100% en total

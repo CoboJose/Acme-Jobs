@@ -1,0 +1,22 @@
+authenticated.auditRecord.title = <h3> Historial de auditoría </h3>
+
+authenticated.auditRecord.list.title = Título
+authenticated.auditRecord.list.creationMoment = Momento de Creación
+authenticated.auditRecord.list.status = Estado
+
+authenticated.auditRecord.form.title = Título
+authenticated.auditRecord.form.status = Estado
+authenticated.auditRecord.form.status.draft = Borrador
+authenticated.auditRecord.form.status.published = Publicado
+authenticated.auditRecord.form.creationMoment = Momento de Creación
+authenticated.auditRecord.form.body = Cuerpo
+
+authenticated.auditRecord.form.auditor.title = <h3> Auditor </h3>
+
+authenticated.auditRecord.list.auditor = Auditor
+authenticated.job.reference = Referencia del Trabajo
+
+authenticated.auditRecord.form.auditor.username = Usuario
+authenticated.auditRecord.form.auditor.fullName = Nombre
+
+authenticated.auditRecord.form.return = Volver

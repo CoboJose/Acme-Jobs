@@ -1,0 +1,26 @@
+worker.application.list.label.reference = Reference
+worker.application.list.label.moment = Creation moment
+worker.application.list.label.status = Status
+worker.application.list.label.job.reference = Job Reference
+
+worker.application.form.reference = Reference
+worker.application.form.moment = Creation Moment
+worker.application.form.status = Status
+worker.application.form.statement = Statement
+worker.application.form.skills = Skills
+worker.application.form.qualifications = Qualifications
+worker.application.form.job = Job
+worker.application.form.job.reference = Reference
+worker.application.form.job.title = Title
+worker.application.form.button.create = Create
+
+worker.application.form.resolution = Resolution
+worker.application.form.resolutionMoment = Resolution Moment
+worker.application.form.resolutionJustification = Justification
+
+worker.application.form.return = Return
+
+worker.application.form.error.uniqueReference = This reference is already taken.
+
+worker.published.error.not-published = This job is not published
+worker.deadline.error.deadlineElapsed = This job's deadline has elapsed

@@ -1,0 +1,13 @@
+#Form
+administrator.investorRecord.form.label.name = Name
+administrator.investorRecord.form.label.sector = Sector
+administrator.investorRecord.form.label.statement = Investing statement
+administrator.investorRecord.form.label.stars = Stars
+administrator.investorRecord.form.button.update = Update
+administrator.investorRecord.form.button.delete = Delete
+administrator.investorRecord.form.button.create = Create
+administrator.investorRecord.form.button.return = Return
+#List
+administrator.investorRecord.list.label.sector = Sector
+administrator.investorRecord.list.label.name = Name
+administrator.investor-record.button.redirect.create = Create

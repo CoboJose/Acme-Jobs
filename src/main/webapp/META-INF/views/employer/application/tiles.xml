@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE tiles-definitions PUBLIC
+	"-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+	"http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+	
+<tiles-definitions>
+
+	<definition name="employer/application/list" extends="master">
+		<put-attribute name="body" type="template" value="../employer/application/list.jsp"/>
+	</definition>	
+	
+	<definition name="employer/application/list-mine-by-reference" extends="master">
+		<put-attribute name="body" type="template" value="../employer/application/list.jsp"/>
+	</definition>	
+	
+	<definition name="employer/application/list-mine-by-status" extends="master">
+		<put-attribute name="body" type="template" value="../employer/application/list.jsp"/>
+	</definition>	
+	
+	<definition name="employer/application/list-mine-by-creation" extends="master">
+		<put-attribute name="body" type="template" value="../employer/application/list.jsp"/>
+	</definition>	
+	
+	<definition name="employer/application/form" extends="master">
+		<put-attribute name="body" type="template" value="../employer/application/form.jsp"/>
+	</definition>	
+</tiles-definitions>

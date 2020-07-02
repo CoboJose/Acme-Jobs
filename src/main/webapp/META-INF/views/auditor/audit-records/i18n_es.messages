@@ -1,0 +1,25 @@
+auditor.auditRecord.title = <h3> Historial de Auditoria </h3>
+
+auditor.auditRecord.list.title = Título
+auditor.auditRecord.list.creationMoment = Momento de Creación
+auditor.auditRecord.list.status = Estado
+
+auditor.auditRecord.form.title = Título
+auditor.auditRecord.form.status = Estado
+auditor.auditRecord.form.status.draft = Borrador
+auditor.auditRecord.form.status.published = Publicado
+auditor.auditRecord.form.creationMoment = Momento de Creación
+auditor.auditRecord.form.body = Cuerpo
+
+auditor.auditRecord.form.auditor.title = <h3> Auditor </h3>
+
+auditor.auditRecord.list.auditor = Auditor
+auditor.job.reference = Referencia del Trabajo
+
+auditor.auditRecord.form.auditor.username = Usuario
+auditor.auditRecord.form.auditor.fullName = Nombre
+
+auditor.auditRecord.create = Crear
+auditor.auditRecord.update = Actualizar
+auditor.auditRecord.delete = Borrar
+auditor.auditRecord.form.return = Volver

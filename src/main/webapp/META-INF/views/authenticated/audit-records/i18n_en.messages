@@ -1,0 +1,22 @@
+authenticated.auditRecord.title = <h3> Audit Record </h3>
+
+authenticated.auditRecord.list.title = Title
+authenticated.auditRecord.list.creationMoment = Creation Moment
+authenticated.auditRecord.list.status = Status
+
+authenticated.auditRecord.form.title = Title
+authenticated.auditRecord.form.status = Status
+authenticated.auditRecord.form.status.draft = Draft
+authenticated.auditRecord.form.status.published = Published
+authenticated.auditRecord.form.creationMoment = Creation Moment
+authenticated.auditRecord.form.body = Body
+
+authenticated.auditRecord.form.auditor.title = <h3> Auditor </h3>
+
+authenticated.auditRecord.list.auditor = Auditor
+authenticated.job.reference = Job Reference
+
+authenticated.auditRecord.form.auditor.username = Username
+authenticated.auditRecord.form.auditor.fullName = Name
+
+authenticated.auditRecord.form.return = Return

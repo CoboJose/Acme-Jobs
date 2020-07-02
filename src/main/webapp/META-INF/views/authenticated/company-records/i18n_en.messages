@@ -1,0 +1,18 @@
+authenticated.company-records.list.label.companyName = Company's Name
+authenticated.company-records.button.redirect= Top Companies
+
+authenticated.company-records.list.label.workSector = Work Sector
+authenticated.company-records.list.label.activityDesc = Activity
+authenticated.company-records.list.label.webSite = Web Site
+authenticated.company-records.list.label.rating = Rating
+
+authenticated.company-records.form.label.companyName = Company's Name
+authenticated.company-records.form.label.workSector = Work Sector
+authenticated.company-records.form.label.ceoName = Ceo's Name
+authenticated.company-records.form.label.activityDesc = Activity
+authenticated.company-records.form.label.webSite = Web Site
+authenticated.company-records.form.label.contactPhone = Phone
+authenticated.company-records.form.label.contactEmail = Email
+authenticated.company-records.form.label.incorporated = Incorporated
+authenticated.company-records.form.button.return = Return
+authenticated.company-records.form.label.rating = Rating

@@ -1,0 +1,20 @@
+administrator.dashboard.form.label.numberAnnouncement = Number of Announcements
+administrator.dashboard.form.label.numberCompanyRecords = Number of Companies
+administrator.dashboard.form.label.numberInvestorRecords = Number of Investors
+
+administrator.dashboard.form.label.avgNumberJobsPerEmployer = Average Number of Jobs per Employer
+administrator.dashboard.form.label.avgNumberApplicationsPerEmployer = Average Number of Applications per Employer
+administrator.dashboard.form.label.avgNumberApplicationsPerWorker = Average Number of Applications per Worker
+administrator.dashboard.form.label.canvasSector = Bar chart of investor/company records by sectors
+administrator.dashboard.form.label.canvasApplicationStatus = Bar chart of applications by status
+administrator.dashboard.form.label.canvasJobStatus = Bar chart of jobs by status
+administrator.dashboard.form.label.canvasApplication = Line chart of Application's status in the last 28 days
+
+administrator.dashboard.form.label.investor = "Investor Records"
+administrator.dashboard.form.label.company =  "Company Records"
+administrator.dashboard.form.label.applications = "Applications"
+administrator.dashboard.form.label.job = "Jobs"
+
+administrator.dashboard.form.label.accepted = "Accepted Applications"
+administrator.dashboard.form.label.pending = "Pending Applications"
+administrator.dashboard.form.label.rejected = "Rejected Applications"

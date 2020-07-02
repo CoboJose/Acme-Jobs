@@ -1,0 +1,24 @@
+administrator.company-records.list.label.companyName = Company's Name
+administrator.company-records.button.redirect= Top Companies
+
+administrator.company-records.list.label.workSector = Work Sector
+administrator.company-records.list.label.activityDesc = Activity
+administrator.company-records.list.label.webSite = Web Site
+administrator.company-records.list.label.rating = Rating
+
+administrator.company-records.form.label.companyName = Company's Name
+administrator.company-records.form.label.workSector = Work Sector
+administrator.company-records.form.label.ceoName = Ceo's Name
+administrator.company-records.form.label.activityDesc = Activity
+administrator.company-records.form.label.webSite = Web Site
+administrator.company-records.form.label.contactPhone = Phone
+administrator.company-records.form.label.contactEmail = Email
+administrator.company-records.form.label.incorporated = Incorporated
+administrator.company-records.form.button.return = Return
+administrator.company-records.form.label.rating = Rating
+
+administrator.company-records.button.redirect.create = Create Company Record
+
+administrator.company-records.button.create = Create
+administrator.company-records.button.update = Update
+administrator.company-records.button.delete = Delete

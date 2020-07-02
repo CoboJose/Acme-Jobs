@@ -1,0 +1,5 @@
+
+authenticated.auditor.form.label.firm = Firm
+authenticated.auditor.form.label.responsibilityStatement = Responsibility statement
+
+authenticated.auditor.form.button.return = Return

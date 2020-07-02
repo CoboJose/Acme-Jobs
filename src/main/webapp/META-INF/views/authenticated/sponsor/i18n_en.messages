@@ -1,0 +1,20 @@
+
+authenticated.sponsor.form.title.create = Register
+authenticated.sponsor.form.title.update = Update
+
+authenticated.sponsor.form.label.creditCardMessage = Credit card (only commercial banners)
+
+authenticated.sponsor.form.label.organisationName = Organisation Name
+authenticated.sponsor.form.label.creditCardNumber = Credit card number
+authenticated.sponsor.form.label.cardHolder = Card holder
+authenticated.sponsor.form.label.cvv = CVV
+authenticated.sponsor.form.label.expirationDate = Expiration date
+
+authenticated.sponsor.error.the-card-has-expired = The card has expired
+authenticated.sponsor.error.the-card-format = The date format is MM/YY
+authenticated.sponsor.error.cvv = The CVV must have three digits
+authenticated.sponsor.error.cardHolder = The card holder must have name and surname
+
+authenticated.sponsor.form.button.create = Register
+authenticated.sponsor.form.button.update = Update
+authenticated.sponsor.form.button.return = Return

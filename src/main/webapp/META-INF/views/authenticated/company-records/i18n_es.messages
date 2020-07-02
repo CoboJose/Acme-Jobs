@@ -1,0 +1,18 @@
+authenticated.company-records.list.label.companyName = Compañía
+authenticated.company-records.button.redirect= Top Compañías
+
+authenticated.company-records.list.label.workSector = Sector de Trabajo
+authenticated.company-records.list.label.activityDesc = Actividad
+authenticated.company-records.list.label.webSite = Sitio Web
+authenticated.company-records.list.label.rating = Puntuación
+
+authenticated.company-records.form.label.companyName = Compañía
+authenticated.company-records.form.label.workSector = Sector de Trabajo
+authenticated.company-records.form.label.ceoName = Nombre del Ceo
+authenticated.company-records.form.label.activityDesc = Actividad
+authenticated.company-records.form.label.webSite = Sitio Web
+authenticated.company-records.form.label.contactPhone = Número
+authenticated.company-records.form.label.contactEmail = Email
+authenticated.company-records.form.label.incorporated = Corporizado
+authenticated.company-records.form.button.return = Volver
+authenticated.company-records.form.label.rating = Puntuación

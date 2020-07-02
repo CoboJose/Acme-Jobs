@@ -1,0 +1,20 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+authenticated.involved.list.label.userAccount.username = Nombre de usuario
+authenticated.involved.list.button.create = Crear nuevo usuario involucrado en el hilo
+
+authenticated.involved.form.label.messageThread.title = Hilo de mensajes
+authenticated.involved.form.label.userAccount.username = Nombre de usuario
+authenticated.involved.form.button.create = Crear nuevo usuario involucrado en el hilo
+authenticated.involved.form.button.return = Volver
+
+involved.duplicated.error.doesnt-exist = No existe ese usuario
+involved.duplicated.error.alreay-involved = Ese usuario ya pertenece a este hilo

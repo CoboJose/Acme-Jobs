@@ -1,0 +1,26 @@
+worker.application.list.label.reference = Referencia
+worker.application.list.label.moment = Momento de creación
+worker.application.list.label.status = Estado
+worker.application.list.label.job.reference = Referencia del empleo
+
+worker.application.form.reference = Referencia
+worker.application.form.moment = Momento de creación
+worker.application.form.status = Estado
+worker.application.form.statement = Declaración
+worker.application.form.skills = Habilidades
+worker.application.form.qualifications = Titulaciones
+worker.application.form.job = Empleo
+worker.application.form.job.reference = Referencia
+worker.application.form.job.title = Título
+worker.application.form.button.create = Crear
+
+worker.application.form.resolution = Resolución
+worker.application.form.resolutionMoment = Fecha de resolución
+worker.application.form.resolutionJustification = Justificación
+
+worker.application.form.return = Volver
+
+worker.application.form.error.uniqueReference = Esta referencia ya está en uso
+
+worker.published.error.not-published = Ese trabajo no ha sido publicado
+worker.deadline.error.deadlineElapsed = La fecha límite de ese trabajo ha expirado

@@ -1,0 +1,8 @@
+authenticated.duty.list.title = Título
+authenticated.duty.list.description = Descripción
+
+authenticated.duty.form.title = Título
+authenticated.duty.form.description = Descripción
+authenticated.duty.form.percentage = Porcentaje
+
+authenticated.duty.form.return = Volver

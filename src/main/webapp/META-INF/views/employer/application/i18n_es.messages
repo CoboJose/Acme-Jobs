@@ -1,0 +1,27 @@
+employer.application.list.label.reference = Referencia
+employer.application.list.label.moment = Momento de creación
+employer.application.list.label.status = Estado
+employer.application.list.label.job.reference = Referencia del empleo
+employer.application.list.label.worker = Trabajador
+
+employer.application.form.reference = Referencia
+employer.application.form.moment = Momento de creación
+employer.application.form.status = Estado
+employer.application.form.worker = Trabajador
+employer.application.form.worker.name = Nombre
+employer.application.form.worker.surname = Apellidos
+employer.application.form.statement = Declaración
+employer.application.form.skills = Habilidades
+employer.application.form.qualifications = Titulaciones
+employer.application.form.job = Empleo
+employer.application.form.job.reference = Referencia
+employer.application.form.job.title = Título
+employer.application.form.resolution = Resolución
+employer.application.form.resolutionMoment = Fecha de resolución
+employer.application.form.resolutionJustification = Justificación
+
+employer.applicaton.form.button.accept = Aceptar
+employer.applicaton.form.button.reject = Rechazar
+employer.application.form.return = Volver
+
+employer.application.error.justification-is-mandatory-when-rejecting = Es necesario justificar el rechazo

@@ -1,0 +1,20 @@
+administrator.banner.list.label.picture = Picture
+administrator.banner.list.label.slogan = Slogan
+administrator.banner.list.label.sponsor = Sponsor
+
+administrator.banner.title.commercial = <h3> Commercial Banner </h3>
+administrator.banner.title.nonCommercial = <h3> Non Commercial Banner </h3>
+administrator.banner.form.label.picture = Picture
+administrator.banner.form.label.slogan = Slogan
+administrator.banner.form.label.target = Target
+administrator.banner.form.label.creditCard = Credit card
+administrator.banner.form.label.creditCardNumber = Card number
+administrator.banner.form.label.cardHolder = Card holder
+administrator.banner.form.label.cvv = CVV
+administrator.banner.form.label.expirationDate = Expiration date
+administrator.banner.form.label.jingle = Jingle
+administrator.banner.form.label.sponsor = Sponsor
+administrator.banner.form.label.sponsor.name = Name
+administrator.banner.form.label.sponsor.surname = Surname
+
+administrator.banner.form.button.return = Return

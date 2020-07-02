@@ -1,0 +1,25 @@
+sponsor.banner.list.label.picture = Picture
+sponsor.banner.list.label.slogan = Slogan
+
+sponsor.banner.title.commercial = <h3> Commercial Banner </h3>
+sponsor.banner.title.nonCommercial = <h3> Non Commercial Banner </h3>
+sponsor.banner.form.label.picture = Picture
+sponsor.banner.form.label.slogan = Slogan
+sponsor.banner.form.label.target = Target
+sponsor.banner.form.label.creditCard = Credit card
+sponsor.banner.form.label.creditCardNumber = Card number
+sponsor.banner.form.label.cardHolder = Card holder
+sponsor.banner.form.label.cvv = CVV
+sponsor.banner.form.label.expirationDate = Expiration date
+sponsor.banner.form.label.jingle = Jingle
+
+sponsor.banner.form.button.create = Create
+sponsor.banner.form.button.update = Update
+sponsor.banner.form.button.delete = Delete
+
+sponsor.banner.button.redirect.create.commercial = Create commercial banner
+sponsor.banner.button.redirect.create.non-commercial = Create non commercial banner
+sponsor.banner.form.button.return = Return
+
+sponsor.banner.error.the-card-has-expired = The card has expired
+sponsor.banner.error.it-is-spam = It is spam

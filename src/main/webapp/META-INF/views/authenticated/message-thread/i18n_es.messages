@@ -1,0 +1,32 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+authenticated.messageThread.list.label.title = Título
+authenticated.messageThread.list.button.create = Crear nuevo hilo de mensajes
+
+authenticated.messageThread.form.label.creator = Creador
+authenticated.messageThread.form.label.title = Título
+authenticated.messageThread.form.label.moment = Fecha de creación
+authenticated.messageThread.form.label.creator = Creador
+
+authenticated.messageThread.form.button.create = Crear
+
+authenticated.messageThread.form.button.messages = Mensajes
+authenticated.messageThread.form.button.create.messages = Crear mensaje
+authenticated.messageThread.form.button.involvedUsers = Usuarios involucrados
+authenticated.messageThread.form.button.create.involvedUsers = Añadir usuario
+
+
+authenticated.messageThread.form.button.return = Volver
+
+authenticated.existUser.error.not-exist = El usuario introducido no existe
+authenticated.unique.error.already-exist = El usuario introducido ya está involucrado en un hilo de mensajes
+
+

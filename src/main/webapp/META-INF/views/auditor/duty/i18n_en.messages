@@ -1,0 +1,8 @@
+auditor.duty.list.title = Title
+auditor.duty.list.description = Description
+
+auditor.duty.form.title = Title
+auditor.duty.form.description = Description
+auditor.duty.form.percentage = Percentage
+
+auditor.duty.form.return = Return

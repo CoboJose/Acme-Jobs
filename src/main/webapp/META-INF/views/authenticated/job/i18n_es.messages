@@ -1,0 +1,22 @@
+auditor.job.title =  <h3> Trabajo </h3>
+auditor.descriptor.title = <h3> Descriptor </h3>
+
+authenticated.job.list.label.reference = Referencia
+authenticated.job.list.label.deadline = Deadline
+authenticated.job.list.label.title = Título
+authenticated.job.list.label.employer = Empleador
+
+auditor.job.employer = <h3> Empleador </h3>
+authenticated.job.form.username = Usuario
+authenticated.job.form.reference = Referencia
+authenticated.job.form.deadline = Fecha de vencimiento
+authenticated.job.form.title = Título
+authenticated.job.form.salary = Salario
+authenticated.job.form.moreInfo = Más información
+authenticated.job.form.description = Descripción
+authenticated.job.form.status = Estado
+
+authenticated.job.form.return = Volver
+authenticated.job.redirect.duties = Deberes
+authenticated.job.redirect.auditRecord = Historial de auditoría
+authenticated.job.redirect.application = Aplicación

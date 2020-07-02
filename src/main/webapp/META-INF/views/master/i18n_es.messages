@@ -1,0 +1,197 @@
+# i18n_es.messages
+
+# master.banner.welcome #######################################################
+
+master.banner.background = #474787
+
+﻿# master.welcome ##############################################################
+
+master.welcome.title = ¡Bienvenidos!
+master.welcome.text = \
+	Bienvenidos a Acme Jobs!  Nunca antes ha sido tan sencillo encontrar trabajo y empleados! \
+	Nuestra web traerá el mercado laboral al siglo 21!
+
+# master.menu #################################################################
+
+master.menu.home = Inicio
+master.menu.sign-up = Registrarse
+master.menu.sign-in = Entrar
+master.menu.sign-out = Salir
+
+# master.menu.authenticated ###################################################
+
+master.menu.authenticated = Autentificado
+
+master.menu.authenticated.challenge.list = Desafíos
+
+# master.menu.anonymous #######################################################
+
+master.menu.anonymous = Anónimo
+master.menu.anonymous.favourite-links = Links Favoritos
+master.menu.anonymous.favourite-link-alvaro = Enlace de Aguilar
+master.menu.anonymous.favourite-link-jose = Enlace de Cobo
+master.menu.anonymous.favourite-link-Carlos = Enlace de Doblado
+master.menu.anonymous.favourite-link-enrique = Enlace de Reina
+master.menu.anonymous.favourite-link-Fran = Enlace de Quintela
+master.menu.anonymous.favourite-link-victor = Enlace de Muñoz
+
+#Boletín
+
+master.menu.anonymous.bulletin-alvaro = Boletín de Aguilar
+master.menu.anonymous.bulletin.reinaBulletin = Boletín de Reina
+master.menu.anonymous.bulletin.CoboBulletin = Boletín de Cobo
+master.menu.anonymous.munoz-bulletin = Boletín de Muñoz
+master.menu.anonymous.doblado-bulletin = Boletín de Doblado
+master.menu.anonymous.quintela-bulletin = Boletín de Quintela
+master.menu.anonymous.announcement = Anuncios
+
+#Inversores
+
+master.menu.anonymous.investor-record = Historial de Inversores
+master.menu.anonymous.investor-record.top = Top Historial de Inversores
+
+#Historial de Compañias
+
+master.menu.anonymous.company-records.list = Historial de Compañías
+master.menu.anonymous.company-records.list.top = Top Historial de Compañías
+
+	#Annoucement
+
+master.menu.anonymous.announcement = Anuncios
+
+# master.menu.authenticated ##########################################################
+
+master.menu.authenticated = Autentificado
+
+
+	#Peticiones
+	
+master.menu.authenticated.request.list = Peticiones
+
+	#Inversores
+	
+master.menu.authenticated.investor-record = Historial de Inversores
+
+	#Anuncios
+
+master.menu.authenticated.announcement = Anuncios
+
+	#Historial de Compañiias
+
+master.menu.authenticated.company-records.list = Historial de Compañías
+
+master.menu.authenticated.job.list = Lista de trabajos disponibles
+
+master.menu.authenticated.message-thread.list = Hilos de mensajes
+
+# master.menu.administrator ###################################################
+
+master.menu.administrator = Administrador
+master.menu.administrator.user-accounts = Cuentas de usuario
+master.menu.administrator.announcement = Anuncios
+master.menu.administrator.challenge = Desafíos
+
+master.menu.administrator.shutdown = Parar el sistema
+master.menu.administrator.banner = Banners
+master.menu.administrator.dashboard = Panel de control
+master.menu.administrator.customisationParameters.show = Parámetros de Configuración
+
+master.menu.administrator.companyRecords = Historial de Compañías
+master.menu.administrator.investor-record = Historial de Inversores
+master.menu.administrator.request-auditor = Peticiones para Auditores
+
+
+
+# master.menu.employer ###########################################################
+
+master.menu.employer = Empleador
+master.menu.employer.job.list = Lista de mis trabajos
+master.menu.employer.application.list-mine = Aplicaciones a mis trabajos
+
+master.menu.employer.application.list-mine.groupByRef = Aplicaciones a mis trabajos por referencia
+master.menu.employer.application.list-mine.groupByStat = Aplicaciones a mis trabajos por estado
+master.menu.employer.application.list-mine.groupByCreation = Aplicaciones a mis trabajos por fecha de creación
+
+master.menu.employer.job.create = Crear nuevo trabajo
+
+# master.menu.worker ###########################################################
+
+master.menu.worker = Trabajador
+master.menu.worker.application.list-mine = Mis Aplicaciones
+
+# master.menu.auditor ############################################################
+
+master.menu.auditor = Auditor
+master.menu.auditor.auditRecords.list = Mis Trabajos Auditados 
+master.menu.auditor.auditRecords.listJobs = Trabajos no Auditados
+
+# master.menu.sponsor ###########################################################
+
+master.menu.sponsor = Patrocinador
+master.menu.sponsor.banner.list = Lista de mis banners
+
+# master.menu.user-account ####################################################
+
+master.menu.user-account = Cuenta
+master.menu.user-account.general-data = Datos generales
+
+master.menu.user-account.auditor = Datos de auditor
+
+master.menu.user-account.become-request-auditor = Hazte auditor
+master.menu.user-account.request-auditor = Petición de auditor
+
+master.menu.user-account.worker = Datos de trabajador
+master.menu.user-account.become-worker = Hazte trabajador
+
+master.menu.user-account.employer = Datos de empleador
+master.menu.user-account.become-employer = Hazte empleador
+
+master.menu.user-account.become-sponsor = Hazte patrocinador
+master.menu.user-account.sponsor = Datos de patrocinador
+
+# master.footer ###############################################################
+
+master.footer.title.about = Nosotros
+master.footer.label.company = La empresa
+master.footer.label.license = Licencia
+master.footer.title.social = Social
+master.footer.label.linked-in = Linked-In
+master.footer.label.twitter = Twitter
+master.footer.title.languages = Lenguages
+master.footer.label.english = Inglés
+master.footer.label.spanish = Español
+
+# master.company ##############################################################
+
+master.company.title = La compañía
+master.company.text = \
+	Acme Jobs, Inc. es una compañía que proporciona una plataforma \
+	para poner en contacto a empleadores y trabajadores, y facilitar \
+	el proceso de buscar trabajo y empleados.
+master.company.name = Acme Jobs, Inc.
+master.company.address = Av. Reina Mercedes, ETSII, Sevilla, Andalucia, España
+master.company.phone = +000 123 456
+master.company.email = contact@acme.com
+
+# master.license ##############################################################
+
+master.license.title = Licencia
+master.license.text = \
+	Puede usar este sistema de forma completamente gratuita respetando las leyes \
+	que sean aplicables.  No compartimos ninguna información sobre Ud. con ninguna \
+	otra empresa.  Tan sólo usamos tres cookies, a saber: "JSESSIONID" para identificar \
+	su sesión de trabajo, "remember" para mantener su información de autentificación \
+	durante un máximo de 31 días y "language" para almacenar sus preferencias de \
+	lenguage.  Además, almacenamos un ítem llamado "returnStack" en el almacenamiento \
+	local de su navegador para saber dónde tienen que ir algunos botones. \
+	El uso de este software corre bajo su propio riesgo.
+	
+
+
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.	

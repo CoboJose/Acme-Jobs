@@ -1,0 +1,19 @@
+anonymous.company-records.list.label.companyName = Company's Name
+anonymous.company-records.list.label.workSector = Work Sector
+anonymous.company-records.list.label.activityDesc = Activity
+anonymous.company-records.list.label.webSite = Web Site
+anonymous.company-records.list.label.rating = Rating
+
+anonymous.company-records.button.redirect = Top Companies
+anonymous.company-records.button.redirect2 = Companies
+
+anonymous.company-records.form.label.companyName = Company's Name
+anonymous.company-records.form.label.workSector = Work Sector
+anonymous.company-records.form.label.ceoName = Ceo's Name
+anonymous.company-records.form.label.activityDesc = Activity
+anonymous.company-records.form.label.webSite = Web Site
+anonymous.company-records.form.label.contactPhone = Phone
+anonymous.company-records.form.label.contactEmail = Email
+anonymous.company-records.form.label.incorporated = Incorporated
+anonymous.company-records.form.button.return = Return
+anonymous.company-records.form.label.rating = Rating

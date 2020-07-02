@@ -1,0 +1,20 @@
+administrator.dashboard.form.label.numberAnnouncement = Número de Anuncios
+administrator.dashboard.form.label.numberCompanyRecords = Número de Compañías
+administrator.dashboard.form.label.numberInvestorRecords = Número de Inversores
+
+administrator.dashboard.form.label.avgNumberJobsPerEmployer = Número Medio de Trabajos por Empleador
+administrator.dashboard.form.label.avgNumberApplicationsPerEmployer = Número Medio de Aplicaciones por Empleador
+administrator.dashboard.form.label.avgNumberApplicationsPerWorker = Número Medio de Aplicaciones por Trabajador
+administrator.dashboard.form.label.canvasSector = Gráfico de barras de inversores/compañías por sectores
+administrator.dashboard.form.label.canvasApplicationStatus = Gráfico de barras de aplicaciones por estado
+administrator.dashboard.form.label.canvasJobStatus = Gráfico de barras de trabajos por estado
+administrator.dashboard.form.label.canvasApplication = Gráfico de estados de aplicaciones en los últimos 28 días
+
+administrator.dashboard.form.label.investor = "Historial de Inversores"
+administrator.dashboard.form.label.company =  "Historial de Compañía"
+administrator.dashboard.form.label.applications = "Aplicaciones"
+administrator.dashboard.form.label.job = "Trabajos"
+
+administrator.dashboard.form.label.accepted = "Aplicaciones Aceptadas"
+administrator.dashboard.form.label.pending = "Aplicaciones Pendientes"
+administrator.dashboard.form.label.rejected = "Aplicaciones Rechazadas"

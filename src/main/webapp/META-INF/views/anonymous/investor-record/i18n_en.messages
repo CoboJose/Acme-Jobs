@@ -1,0 +1,15 @@
+#Form
+anonymous.investorRecord.form.label.name = Name
+anonymous.investorRecord.form.label.sector = Sector
+anonymous.investorRecord.form.label.statement = Investing statement
+anonymous.investorRecord.form.label.stars = Stars
+anonymous.investorRecord.form.button.return = Return
+#List
+anonymous.investorRecord.list.label.sector = Sector
+anonymous.investorRecord.list.label.name = Name
+anonymous.investorRecord.list.label.stars = Rating
+anonymous.investorRecord.listFiveStars.button.redirect = Top Investors
+anonymous.investorRecord.listFiveStars.button.redirect2 = Investors
+#ListFiveStars
+anonymous.investorRecord.listFiveStars.label.name = Name
+anonymous.investorRecord.listFiveStars.label.sector = Sector

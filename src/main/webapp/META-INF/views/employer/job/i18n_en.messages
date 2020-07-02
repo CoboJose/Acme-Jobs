@@ -1,0 +1,40 @@
+auditor.job.title =  <h3> Job </h3>
+auditor.descriptor.title = <h3> Descriptor </h3>
+
+employer.job.list.label.reference = Reference
+employer.job.list.label.deadline = Deadline
+employer.job.list.label.title = Title
+employer.job.list.label.status = Status
+employer.job.list.redirect.create-job = Create Job
+
+employer.job.form.reference = Reference
+employer.job.form.deadline = Deadline
+employer.job.form.title = Title
+employer.job.form.salary = Salary
+employer.job.form.moreInfo = More Info
+employer.job.form.status = Status
+employer.job.form.description = Description
+authenticated.job.form.status.draft = Draft
+authenticated.job.form.status.published = Published
+
+employer.job.form.button.create = Create
+employer.job.form.button.update = Update
+employer.job.form.button.delete = Delete
+employer.job.form.return = Return
+
+employer.job.redirect.create-descriptor = Create Descriptor
+employer.job.redirect.descriptor = Descriptor
+employer.job.redirect.create-duty = Create Duty
+employer.job.redirect.listDuties = Duties
+employer.job.redirect.auditRecord = Audit Records
+
+# Errors #########################################
+
+employer.job.error.deadline-must-be-in-the-future = The deadline must be in the future
+employer.job.error.workers-has-applied = Cannot be deleted. One worker or more had applied for the Job
+employer.job.form.error.uniqueReference = This reference is already taken
+employer.job.form.error.salary-in-euros = The salary must be in Euros
+employer.job.form.error.salary-not-positive = The salary must be 0 or greater
+employer.job.form.error.dont-have-descriptor = The Job must have a Descriptor to be saved as Published
+employer.job.form.error.duties-100 = The duties must add up to 100%
+employer.job.form.error.isSpam = The job can not be published if it is considered Spam

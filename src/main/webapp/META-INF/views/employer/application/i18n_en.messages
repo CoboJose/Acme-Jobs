@@ -1,0 +1,27 @@
+employer.application.list.label.reference = Reference
+employer.application.list.label.moment = Creation moment
+employer.application.list.label.status = Status
+employer.application.list.label.job.reference = Job Reference
+employer.application.list.label.worker = Worker
+
+employer.application.form.reference = Reference
+employer.application.form.moment = Creation Moment
+employer.application.form.status = Status
+employer.application.form.worker = Worker
+employer.application.form.worker.name = Name
+employer.application.form.worker.surname = Surname
+employer.application.form.statement = Statement
+employer.application.form.skills = Skills
+employer.application.form.qualifications = Qualifications
+employer.application.form.job = Job
+employer.application.form.job.reference = Reference
+employer.application.form.job.title = Title
+employer.application.form.resolution = Resolution
+employer.application.form.resolutionMoment = Resolution Moment
+employer.application.form.resolutionJustification = Justification
+
+employer.applicaton.form.button.accept = Accept
+employer.applicaton.form.button.reject = Reject
+employer.application.form.return = Return
+
+employer.application.error.justification-is-mandatory-when-rejecting = It is necessary to justify the rejection

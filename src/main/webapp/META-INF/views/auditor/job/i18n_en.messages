@@ -1,0 +1,20 @@
+auditor.job.list.label.reference = Reference
+auditor.job.list.label.deadline = Deadline
+auditor.job.list.label.title = Title
+auditor.job.list.label.employer = Employer
+
+auditor.job.employer = <h3> Employer </h3>
+auditor.job.form.employer = Username
+auditor.job.form.reference = Reference
+auditor.job.form.deadline = Deadline
+auditor.job.form.title = Title
+auditor.job.form.salary = Salary
+auditor.job.form.moreInfo = More Info
+auditor.job.form.status = Status
+
+auditor.job.form.description = Description
+
+auditor.job.form.return = Return
+auditor.job.redirect.create = Write Audit Record
+auditor.job.redirect.descriptor = Descriptor
+auditor.job.redirect.auditRecord = Audit Record
